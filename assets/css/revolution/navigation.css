@@ -2296,6 +2296,7 @@ website:    http://www.themepunch.com
   border-radius:35px;   
   overflow:hidden;
   background:rgba(0,0,0,0.10);
+  display: none;
 }
 
 .zeus.tparrows:before {
